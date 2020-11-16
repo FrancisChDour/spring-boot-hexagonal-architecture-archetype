@@ -1,5 +1,5 @@
 # spring-boot-hexagonal-architecture-archetype
-The aim of this project is to provide an archetype to simply set up a new spring boot project using a hexagonal architecture template.
+The aim of this project is to provide an archetype to set up a new spring boot project using a hexagonal architecture template.
 
 To do that, simply clone this git project :
 ```
